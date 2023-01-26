@@ -1,0 +1,99 @@
+body{
+    background-color:rgb(250, 247, 234);
+    font-family: 'Merriweather Sans', sans-serif;
+    text-align: center;
+    padding-top: 20px;
+    /* margin: 0 auto 0 auto; to centre element that has fixed width/height and does not go from left to completely right */
+}
+.bottom-cloud{
+    position: absolute;
+}
+.top-cloud{
+    position: relative;
+    right: 300px;
+}
+h1{
+    color: #66BFBF;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    font-size: 60px;
+    /* 16px=100%=1em */
+    /* font-family: 'Lobster', cursive; */
+    /* font-family: 'Pacifico', cursive; */
+    font-family: 'Satisfy', cursive;
+    /* font-family: 'Lilita One', cursive; */
+    line-height: 2;
+}
+h2{
+    color: #66BFBF;
+    margin: 10px auto 10px auto;
+    font-family: 'Kalam', cursive;
+    /* font-size: 30px; */
+    font-size: 2rem;
+    font-weight: normal;
+}
+h3{
+    color: #11999E;
+    margin: 10px auto 10px auto;
+    font-family: 'Kalam', cursive;
+    /* font-size: 30px; */
+    font-size: 2rem;
+}
+.second{
+    margin-top: 50px;
+}
+.myimg{
+    height: 200px;
+    width: 200px;
+    border-radius: 100px;
+}
+.third{
+    margin-top: 50px;
+}
+.skills{
+    height: 100px;
+    width: 100px;
+}
+.forth{
+    margin-top: 50px;
+}
+.next_best{
+    height: 150px;
+    width: 150px;
+    margin-top: 50px;
+}
+.last{
+    margin-top: 50px;
+}
+.email{
+    height: 100px;
+    width: 100px;
+}
+p{
+    font-size: 30px;
+    /* font-family: 'Oleo Script', cursive; */
+    font-family: 'Marck Script', cursive;
+    /* font-family: 'Sacramento', cursive; */
+    width: 50%;
+    margin: auto;
+}
+a{
+    color: #11999E;
+    text-decoration: none;
+}
+footer{
+    /* margin-left: ; */
+    margin-top: 30px;
+    padding: 20px;
+    background-color: #66BFBF;
+}
+.contact{
+    margin-top: 30px;
+    color: #11999E;
+    margin-right:30px ;
+}
+.foot{
+    margin-top: 20px;
+    color: #EAF6F6;
+    font-size: 20px;
+}
